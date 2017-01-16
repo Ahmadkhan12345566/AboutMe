@@ -17,3 +17,4 @@ This interface is perfect for CSS detective work on existing sites, brainstormin
 
 When you're working on the styles for a project, you can preview your page in the browser, experiment with different settings in Developer Tools, then save the changes you like back in your source code, using your text editor. Getting into this habit puts you on the path to a powerful workflow.
 for more [visit](https://courses.thinkful.com/gh-studentv2/assignment/1.3.2).
+If you're looking to read more about working with styles and CSS in Developer Tools, [Google's official learning materials](https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/?hl=en) are a good place to continue your learning.
