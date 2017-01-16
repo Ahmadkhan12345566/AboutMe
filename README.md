@@ -29,11 +29,11 @@ Read about here [Text on Images](https://css-tricks.com/design-considerations-te
 To become efficient writing CSS, you need to memorize a number of CSS selectors. In this assignment, you'll practice eight common selector types. We'll give you the low-down on each selector type, and then you'll complete a drill that asks you to use each.
 Here's what we'll cover:
 
-Element selectors ``(e.g., p {...})``.
-Combination selectors ``(e.g., .foo.bar {...})``.
-Multi selectors ``(e.g., .foo, .bar {...})``.
-Descendant selectors ``(e.g., .foo li {...})``.
-Direct child selectors ``(e.g., .foo > li {...})``.
-Before and after pseudo-elements selectors ``(e.g., li::before {...})``.
-Anchor pseudo-classes ``(e.g., a:hover {...})``.
-Attribute selectors ``(e.g., input[type="text"] {...})``.
+* Element selectors ``(e.g., p {...})``.
+* Combination selectors ``(e.g., .foo.bar {...})``.
+* Multi selectors ``(e.g., .foo, .bar {...})``.
+* Descendant selectors ``(e.g., .foo li {...})``.
+* Direct child selectors ``(e.g., .foo > li {...})``.
+* Before and after pseudo-elements selectors ``(e.g., li::before {...})``.
+* Anchor pseudo-classes ``(e.g., a:hover {...})``.
+* Attribute selectors ``(e.g., input[type="text"] {...})``.
