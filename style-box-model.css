@@ -1,0 +1,19 @@
+/* style for Box model */
+main {
+  margin: 30px;
+}
+.foo{
+  width: 200px;
+  background-color: green;
+  border: 1px solid green;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.bar {
+  display: inline-block;;
+  font-size: 10px;
+  width: 100px;
+  background-color: cadetblue;
+  padding: 10px;
+}
