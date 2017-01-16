@@ -2,6 +2,12 @@
 main {
   margin: 30px;
 }
+
+/* Box-sizing ruleset of css
+  fix the explicit width of box approx 200px */
+  * {
+    box-sizing: border-box;
+  }
 .foo{
   width: 200px;
   background-color: green;
@@ -11,7 +17,7 @@ main {
 }
 
 .bar {
-  display: inline-block;;
+  display: inline-block;
   font-size: 10px;
   width: 100px;
   background-color: cadetblue;
