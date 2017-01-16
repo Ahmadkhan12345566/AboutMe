@@ -4,7 +4,11 @@ main {
 }
 
 /* Box-sizing ruleset of css
-  fix the explicit width of box approx 200px */
+  fix the explicit width of box approx 200px
+  more learn about Box-sizing:
+  https://css-tricks.com/box-sizing/
+  https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing
+  */
   * {
     box-sizing: border-box;
   }
