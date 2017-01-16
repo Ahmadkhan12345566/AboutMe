@@ -18,14 +18,14 @@ This interface is perfect for CSS detective work on existing sites, brainstormin
 When you're working on the styles for a project, you can preview your page in the browser, experiment with different settings in Developer Tools, then save the changes you like back in your source code, using your text editor. Getting into this habit puts you on the path to a powerful workflow for more [visit](https://courses.thinkful.com/gh-studentv2/assignment/1.3.2).
 If you're looking to read more about working with styles and CSS in Developer Tools, [Google's official learning materials](https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/?hl=en) are a good place to continue your learning.
 
-# Google Fonts
+## Google Fonts
 Here is [Google Fonts](https://fonts.google.com).
 
-# Text Contrast Problem or Design Considerations: Text on Images
+## Text Contrast Problem or Design Considerations: Text on Images
 
 Read about here [Text on Images](https://css-tricks.com/design-considerations-text-images/).
 
-# CSS selector drills
+## CSS selector drills
 To become efficient writing CSS, you need to memorize a number of CSS selectors. In this assignment, you'll practice eight common selector types. We'll give you the low-down on each selector type, and then you'll complete a drill that asks you to use each.
 Here's what we'll cover:
 
@@ -37,3 +37,14 @@ Here's what we'll cover:
 * Before and after pseudo-elements selectors ``(e.g., li::before {...})``.
 * Anchor pseudo-classes ``(e.g., a:hover {...})``.
 * Attribute selectors ``(e.g., input[type="text"] {...})``.
+
+## Level elements
+We'll walk through the difference between inline, block-level, and inline-block elements.
+
+## Inline elements
+HTML (Hypertext Markup Language) elements are usually "inline" elements or "block-level" elements. An inline element occupies only the space bounded by the tags that define the inline element. The following example demonstrates the inline element's influence:
+Visit [here](https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements).
+
+## Block-level elements
+List of Block Level Elements [here](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements#Elements).
+Fixing Block Level Elements [here](https://css-tricks.com/fighting-the-space-between-inline-block-elements/).
